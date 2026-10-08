@@ -1,0 +1,26 @@
+# Compiled Java files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Build directories
+target/
+out/
+
+# Serialized/runtime data
+*.ser
+*.dat
+
+# OS files
+.DS_Store
+Thumbs.db
